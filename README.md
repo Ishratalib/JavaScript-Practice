@@ -2,6 +2,13 @@
 
 This is a simple JavaScript practice project created to practice basic JavaScript concepts and understand how different loops, functions, and arrays work.
 
+## Technologies Used
+
+* HTML5
+* JavaScript
+
+---
+
 ## Topics Practiced
 
 * While Loop
@@ -13,10 +20,7 @@ This is a simple JavaScript practice project created to practice basic JavaScrip
 * `push()` method
 * Console Output
 
-## Technologies Used
-
-* HTML5
-* JavaScript
+---
 
 ## Project Structure
 
@@ -25,6 +29,8 @@ JavaScript-Practice/
 ├── index.html
 ├── a.js
 ```
+
+---
 
 ## File Overview
 
@@ -35,6 +41,8 @@ Contains the basic HTML page and connects the JavaScript file.
 ### `a.js`
 
 Contains all the JavaScript practice code, including loops, functions, arrow functions, and array operations.
+
+---
 
 ## How to Run
 
@@ -51,6 +59,8 @@ git clone https://github.com/Ishratalib/JavaScript-Practice.git
 ```
 
 Open the project folder and run `index.html` using a browser or Live Server.
+
+---
 
 ## Console Output
 
@@ -74,9 +84,13 @@ The program produces outputs for:
 * Total calculation using an arrow function
 * Updated cities array
 
+---
+
 ## Purpose
 
 The purpose of this project is to practice and understand fundamental JavaScript concepts through small examples and console-based exercises.
+
+---
 
 ## Author
 
