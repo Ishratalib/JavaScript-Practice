@@ -2,6 +2,10 @@
 
 This is a simple JavaScript practice project created to practice basic JavaScript concepts and understand how different loops, functions, and arrays work.
 
+## Live Demo
+
+No live demo available. This is a console-based JavaScript practice project.
+
 ## Technologies Used
 
 * HTML5
